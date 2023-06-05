@@ -1,0 +1,22 @@
+.BODY{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(126, 161, 177);
+    font-family:  'times new roman', sans-serif;
+    font-size: 1.6 rem;
+}
+
+
+h1{
+    font-family:  'times new roman', sans-serif;
+    font-size: 2.6 rem;
+}
+
+
+legend{
+    border: solid 1px white;
+   padding: 5px;
+   font-weight: bold;
+   border-radius: 20px;
+   background-color: rgb(197, 190, 218);
+}
